@@ -1,0 +1,5 @@
+@import "../reset/normalize.css";
+@import "../reset/reset.css";
+
+@import "../styles/fonts&text_styles.css";
+@import "../styles/header.css";
